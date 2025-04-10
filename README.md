@@ -6,6 +6,8 @@
 
 - 📖 Atualmente cursando o terceiro ano do ensino médio
 
+  [![SiteBrabo](https://imgs.search.brave.com/1KFSFy24J7EVFQxRVjWK7LEM7ORmcNXxXLgrIat-WSI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9ibG9n/LmNhY3Vyc29zLmNv/bS5ici93cC1jb250/ZW50L3VwbG9hZHMv/MjAxNy8wMS9CT1Ql/QzMlODNPLUNMSVFV/RS1BUVVJLTMwMHg4/Ni5wbmc)](https://viciuss.github.io/viciuss-github.io/)
+
 ## Interesses em Tecnologia: 
 - FrontEnd
 - BackEnd
