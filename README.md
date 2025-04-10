@@ -1,7 +1,10 @@
 # Olá, Bem-Vindo ao meu Perfil!
 
--Estudando _Desenvolvimento de Sistemas_ na Proz Educação.
--Atualmente cursando o terceiro ano do ensino médio
+<img src="https://github.com/user-attachments/assets/86f9da2c-42e6-4e63-b81e-a5652ee1bc72" width="75" height="75" />
+
+- ⌨️ Estudando _Desenvolvimento de Sistemas_ na Proz Educação.
+
+- 📖 Atualmente cursando o terceiro ano do ensino médio
 
 ## Interesses em Tecnologia: 
 - FrontEnd
@@ -19,8 +22,8 @@
 - Bootcamp 
 
 ## Hobbies:
-- Jogos
-- Musica
+- 🎮 Jogos
+- 🎸 Musica
 
 <hr>
 
@@ -77,4 +80,8 @@
 
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
-![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)
+## Git Status
+
+![Viciuss GitHub stats](https://github-readme-stats.vercel.app/api?username=Viciuss&theme=synthwave&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viciuss)](https://github.com/viciuss/github-readme-stats)
