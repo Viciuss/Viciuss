@@ -9,19 +9,12 @@
   [![SiteBrabo](https://imgs.search.brave.com/1KFSFy24J7EVFQxRVjWK7LEM7ORmcNXxXLgrIat-WSI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9ibG9n/LmNhY3Vyc29zLmNv/bS5ici93cC1jb250/ZW50L3VwbG9hZHMv/MjAxNy8wMS9CT1Ql/QzMlODNPLUNMSVFV/RS1BUVVJLTMwMHg4/Ni5wbmc)](https://viciuss.github.io/viciuss-github.io/)
 
 ## Interesses em Tecnologia: 
-- FrontEnd
-- BackEnd
 - FullStack
 - DataBases
-- IA e ML
-- Redes
 - Segurança da Informação
 
 ## Idiomas: 
-- Inglês
-
-## Cursos:
-- Bootcamp 
+- Inglês intermediario
 
 ## Hobbies:
 - 🎮 Jogos
@@ -55,8 +48,6 @@
 ## Outras Ferramentas
 
 <div  style="display: inline">
-  
-![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
  
@@ -72,15 +63,14 @@
 
 ## Contato
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciuscmarciano@gmail.com)
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/wuss.kk/?next=%2F)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-costa-a58a922b1)
 
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Wusskkkk)
 
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
 ## Git Status
 
