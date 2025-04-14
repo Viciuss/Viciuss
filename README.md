@@ -6,7 +6,13 @@
 
 - 📖 Atualmente cursando o terceiro ano do ensino médio
 
-  [![SiteBrabo](https://imgs.search.brave.com/1KFSFy24J7EVFQxRVjWK7LEM7ORmcNXxXLgrIat-WSI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9ibG9n/LmNhY3Vyc29zLmNv/bS5ici93cC1jb250/ZW50L3VwbG9hZHMv/MjAxNy8wMS9CT1Ql/QzMlODNPLUNMSVFV/RS1BUVVJLTMwMHg4/Ni5wbmc)](https://viciuss.github.io/viciuss-github.io/)
+# Meu portifólio
+
+  <div align="center"  style="margin-left: auto; margin-right: auto; width: fit-content;">
+  <a href="https://viciuss.github.io/viciuss-github.io/">
+    <img src="https://minecraft.wiki/images/End_Portal_%28block%29.gif?70b39" alt="SIte" style="width: 100px; height: 100px; max-width: 100px; max-height: 100px;"/>
+  </a>
+</div>
 
 ## Interesses em Tecnologia: 
 - FullStack
