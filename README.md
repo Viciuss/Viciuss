@@ -6,7 +6,7 @@
 
 - 📖 Atualmente cursando o terceiro ano do ensino médio
 
-# Meu portifólio
+# Entre no portal e acesse meu portifólio
 
   <div align="center"  style="margin-left: auto; margin-right: auto; width: fit-content;">
   <a href="https://viciuss.github.io/viciuss-github.io/">
